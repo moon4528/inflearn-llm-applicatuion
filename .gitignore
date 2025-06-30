@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+env/
+venv/
+*.egg-info/
+.env
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyenv
+.python-version  # pyenv가 생성하는 버전 지정 파일 (선택적)
+
+# IDEs and editors
+.vscode/ # VS Code 설정 (개인 선호도에 따라 제외하거나 포함)
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
